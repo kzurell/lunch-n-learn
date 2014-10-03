@@ -1,1 +1,5 @@
-source 5 created in the master branch
+/* Source for project */
+
+function init() {
+	/* Wake system up and begin event loop */
+}
